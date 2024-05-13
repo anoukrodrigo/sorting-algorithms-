@@ -1,2 +1,1 @@
-# bubble-sorting
-bubble sorting is a type of algorithm in Programming.
+"Code Crafted with Passion: Explore, Collaborate, Innovate"
